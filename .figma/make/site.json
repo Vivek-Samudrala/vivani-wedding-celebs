@@ -1,0 +1,10 @@
+{
+  "description": "A digital wedding invitation sharing Vivek and Shivani’s ceremony date, auspicious time, and Hyderabad venue details with family and guests.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

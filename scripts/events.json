@@ -1,0 +1,160 @@
+{
+  "site": "https://vivani-wedding-celebs.web.app",
+  "couple": {
+    "a": "Vivek",
+    "b": "Shivani"
+  },
+  "wedding": {
+    "label": "until the wedding",
+    "at": "2026-11-26T09:28"
+  },
+  "events": [
+    {
+      "slug": "haldi",
+      "name": "Haldi",
+      "tagline": "A morning of colour, laughter and love",
+      "start": "2026-11-21T09:30",
+      "end": "2026-11-21T12:30",
+      "time": "9:30 AM onwards",
+      "venue": "The Village Vibes",
+      "address": "The Village Vibes farm house & banquet hall, Nadergul Road, Adibatla, Hyderabad, Telangana 501510",
+      "maps": "https://maps.app.goo.gl/gDjck3PeDfncpWUF6",
+      "card": "image",
+      "art": "/assets/haldi.webp"
+    },
+    {
+      "slug": "pellikoduku",
+      "name": "Pellikoduku & Formalities",
+      "tagline": "Blessings and traditions before the big day",
+      "start": "2026-11-22T08:00",
+      "end": "2026-11-22T12:00",
+      "time": "8:00 AM onwards",
+      "venue": "Home",
+      "address": "Nehru Nagar Arch, Nandigama",
+      "maps": "https://maps.app.goo.gl/nrG9gFJHvzZ5Qw8A8",
+      "card": "art",
+      "art": "/assets/pellikoduku.webp",
+      "overlay": {
+        "top": 37.4,
+        "left": 15,
+        "right": 14,
+        "bottom": 49.6,
+        "ratio": "736 / 1030",
+        "ink": "#3e2523",
+        "accent": "#801d2e",
+        "panel": "#fef7ee",
+        "glow": 1.2,
+        "hide": [
+          "tag",
+          "couple"
+        ],
+        "blessing": "|| Shree Ganeshaya Namah ||",
+        "nameSize": 6.8,
+        "split": {
+          "top": 51.5,
+          "left": 29.5,
+          "right": 26.5,
+          "bottom": 33,
+          "align": "start"
+        }
+      }
+    },
+    {
+      "slug": "odugu",
+      "name": "Odugu",
+      "tagline": "A cherished family ritual",
+      "start": "2026-11-25T06:00",
+      "end": "2026-11-25T09:00",
+      "time": "6:00 AM onwards",
+      "venue": "Home",
+      "address": "Nehru Nagar Arch, Nandigama",
+      "maps": "https://maps.app.goo.gl/nrG9gFJHvzZ5Qw8A8",
+      "card": "art",
+      "art": "/assets/odugu.webp",
+      "overlay": {
+        "top": 24.5,
+        "left": 18,
+        "right": 17.5,
+        "bottom": 54.8,
+        "ratio": "1200 / 1691",
+        "ink": "#4a1f1a",
+        "accent": "#6e1f1a",
+        "panel": "#fdf8f0",
+        "hide": [
+          "couple"
+        ],
+        "split": {
+          "top": 88.6,
+          "left": 24,
+          "right": 24,
+          "bottom": 3.2,
+          "panel": "#f8e6c8"
+        }
+      }
+    },
+    {
+      "slug": "wedding",
+      "name": "Wedding",
+      "tagline": "Muhurtam at 9:28 AM",
+      "start": "2026-11-26T07:30",
+      "end": "2026-11-26T13:00",
+      "time": "7:30 AM onwards · Muhurtam 9:28 AM",
+      "venue": "SPR Srirasthu Convention",
+      "address": "Sagar Road, near Injapur, Neeladrinagar, Hyderabad",
+      "maps": "https://www.google.com/maps/search/?api=1&query=SPR%20Srirasthu%20Convention%2C%20Sagar%20Road%2C%20near%20Injapur%2C%20Neeladrinagar%2C%20Hyderabad",
+      "card": "image",
+      "art": "/assets/wedding.webp"
+    },
+    {
+      "slug": "vratham",
+      "name": "Vratham & Reception",
+      "tagline": "Prayers, blessings and a joyful feast with family",
+      "start": "2026-11-28T09:00",
+      "end": "2026-11-28T13:00",
+      "time": "9:00 AM onwards",
+      "venue": "Kamma Kalyana Mandapam",
+      "address": "Nandigama",
+      "maps": "https://maps.app.goo.gl/4T3p1zKJrQ9yB7mL8",
+      "card": "art",
+      "art": "/assets/vratham.webp",
+      "overlay": {
+        "top": 20.5,
+        "left": 15.5,
+        "right": 15.5,
+        "bottom": 22.5,
+        "ratio": "1024 / 1536",
+        "ink": "#5a1a1a",
+        "accent": "#7a1f1a",
+        "panel": "#fdf0d6"
+      }
+    },
+    {
+      "slug": "reception",
+      "name": "Reception",
+      "tagline": "An evening of dinner, music and celebration",
+      "start": "2026-11-30T18:00",
+      "end": "2026-11-30T22:00",
+      "time": "6:00 PM onwards",
+      "venue": "Skandha Farm Stay",
+      "address": "Near Nusthulapur, Kothapally, Karimnagar",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Skandha%20Farm%20Stay%2C%20near%20Nusthulapur%2C%20Kothapally%2C%20Karimnagar",
+      "card": "art",
+      "art": "/assets/reception-night.webp",
+      "overlay": {
+        "top": 2.2,
+        "left": 14.5,
+        "right": 14.5,
+        "bottom": 69.6,
+        "ratio": "1080 / 1920",
+        "ink": "#f3e8d0",
+        "accent": "#f3dfa6",
+        "panel": "#04141f",
+        "nameSize": 10,
+        "hide": [
+          "tag"
+        ],
+        "sparkles": true
+      }
+    }
+  ]
+}
